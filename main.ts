@@ -20,7 +20,6 @@ namespace custom {
     * TODO: describe your function here
     * @param value describe value here, eg: 5
     */
-    //% weight=100 color=##F79226 icon=""
     //% block
     export function fib(value: number): number {
         return value <= 1 ? value : fib(value - 1) + fib(value - 2);
