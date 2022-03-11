@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2Dmy7iivQefzTV{EJRky" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="2Dmy7iivQefzTV{EJRky" x="20" y="20"/><block type="custom_fib" id="((wrp*qN=?K.TM@rSVbC" disabled="true" x="20" y="65"/><block type="device_show_number" id=":g0-Z@nBCv~K},$DY4)2" disabled="true" x="20" y="110"/></xml>
