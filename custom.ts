@@ -15,7 +15,6 @@ enum MyEnum {
  * Custom blocks
  */
 //% weight=100 color=#F79226 icon=""
-//% groups=['micro:bit(v2)']
 namespace custom {
     /**
      * TODO: describe your function here
@@ -32,7 +31,11 @@ namespace custom {
      * TODO: describe your function here
      * @param value describe value here, eg: 5
      */
-    //% block
+    //% help=power/low-power-request
+    //% group="micro:bit (V2)"
+    //% weight=700
+    //% blockId=fib_id block="Fib nummer|%value"
+    //%
     export function fib(value: number): number {
         return value <= 1 ? value : fib(value -1) + fib(value - 2);
     }
