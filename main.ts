@@ -1,1 +1,1 @@
-custom.foo(5, "Hello", MyEnum.One)
+basic.showNumber(custom.fib(1))
